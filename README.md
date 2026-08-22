@@ -42,15 +42,15 @@
 
 <div align="center">
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gok142006&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gokul142006&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gok142006&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul142006&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=gok142006&theme=tokyonight&hide_border=true" />
+<img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=gokul142006&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-<img width="100%" alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gok142006&theme=react-dark&hide_border=true" />
+<img width="100%" alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gokul142006&theme=react-dark&hide_border=true" />
 
 </div>
 
@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=gok142006&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=gokul142006&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
