@@ -48,13 +48,7 @@
 
 </div>
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=gokul142006&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
 
 ## 🐍 Contribution Snake
 
