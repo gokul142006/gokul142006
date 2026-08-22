@@ -72,21 +72,7 @@
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-<picture>
-
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gok142006/gok142006/output/github-contribution-grid-snake-dark.svg">
-
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gok142006/gok142006/output/github-contribution-grid-snake.svg">
-
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/gok142006/gok142006/output/github-contribution-grid-snake.svg">
-
-</picture>
-
-</div>
-
-> ⚙️ Needs a one-time GitHub Actions setup using `snake.yml`.
+![GitHub Contribution Snake](https://raw.githubusercontent.com/gokul142006/gokul142006/output/github-contribution-grid-snake.svg)
 
 ## 🌐 Connect with Me
 
